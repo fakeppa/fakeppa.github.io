@@ -2,51 +2,60 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/demo/",
+  "/article/",
   {
-    text: "博文",
+    text: "博客",
     icon: "pen-to-square",
-    prefix: "/posts/",
+    prefix: "/article/",
     children: [
       {
-        text: "苹果",
+        text: "项目",
         icon: "pen-to-square",
-        prefix: "apple/",
+        prefix: "01_项目",
         children: [
-          { text: "苹果1", icon: "pen-to-square", link: "1" },
-          { text: "苹果2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
+          {
+            text: "项目简介",
+            icon: "pen-to-square",
+            link: "项目--简介",
+          },
         ],
       },
       {
-        text: "香蕉",
+        text: "领域",
         icon: "pen-to-square",
-        prefix: "banana/",
+        prefix: "02_领域",
         children: [
           {
-            text: "香蕉 1",
+            text: "领域简介",
             icon: "pen-to-square",
-            link: "1",
+            link: "领域--简介",
           },
-          {
-            text: "香蕉 2",
-            icon: "pen-to-square",
-            link: "2",
-          },
-          "3",
-          "4",
         ],
       },
-      { text: "樱桃", icon: "pen-to-square", link: "cherry" },
-      { text: "火龙果", icon: "pen-to-square", link: "dragonfruit" },
-      "tomato",
-      "strawberry",
+      {
+        text: "资源",
+        icon: "pen-to-square",
+        prefix: "03_资源",
+        children: [
+          {
+            text: "资源简介",
+            icon: "pen-to-square",
+            link: "资源--简介",
+          },
+        ],
+      },
+      {
+        text: "归档",
+        icon: "pen-to-square",
+        prefix: "04_归档",
+        children: [
+          {
+            text: "归档简介",
+            icon: "pen-to-square",
+            link: "归档--简介",
+          },
+        ],
+      },
     ],
-  },
-  {
-    text: "V2 文档",
-    icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
   },
 ]);

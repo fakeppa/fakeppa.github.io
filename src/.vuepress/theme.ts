@@ -4,18 +4,18 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://github.com/fakeppa/fakeppa.github.io",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "fakeppa",
+    url: "https://github.com/fakeppa/fakeppa.github.io",
   },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "https://theme-hope-assets.vuejs.press/logo.svg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "fakeppa/fakeppa.github.io",
 
   docsDir: "src",
 
@@ -26,16 +26,16 @@ export default hopeTheme({
   sidebar,
 
   // 页脚
-  footer: "默认页脚",
+  footer: "到底了:D",
   displayFooter: true,
 
-  // 博客相关
+  // 博客相关,主页显示的链接在这，右侧小栏在这
   blog: {
-    description: "一个前端开发者",
+    description: "Just普通学生",
     intro: "/intro.html",
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://example.com",
+      Baidu: "https://baidu.com",
+      BiliBili: "https://bilibili.com",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
       Discord: "https://example.com",
