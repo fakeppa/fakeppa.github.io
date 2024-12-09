@@ -3,7 +3,8 @@ icon: pen-to-square
 date: 2022-01-01
 category:
   - 资源
-tags:
+tags: 
+title: SQL 快速参考
 ---
 
 # SQL 笔记
@@ -45,7 +46,8 @@ tags:
 | **UPDATE**          | `UPDATE table_name SET column1=value, column2=value, ... WHERE some_column=some_value` | 用于修改表中的现有记录。                                     |
 | **WHERE**           | `SELECT column_name(s) FROM table_name WHERE column_name operator value` | 用于过滤记录，指定查询条件。                                 |
 
-![SQL](C:\Users\l1709\Desktop\笔记\img\SQL.png)
+![SQL.png](https://cdn.jsdelivr.net/gh/fakeppa/blog-img/SQL.png)
+
 
 # 一些最重要的 SQL 命令
 
