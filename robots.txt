@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://github.com/fakeppa/fakeppa.github.io/README/sitemap.xml
+Sitemap: https://github.com/fakeppa/fakeppa.github.io/sitemap.xml
