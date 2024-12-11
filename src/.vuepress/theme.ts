@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "https://cdn.jsdelivr.net/gh/fakeppa/blog-img/K13134131.svg",
 
   repo: "fakeppa/fakeppa.github.io",
 
