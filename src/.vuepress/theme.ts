@@ -31,7 +31,7 @@ export default hopeTheme({
 
   // 博客相关,主页显示的链接在这，右侧小栏在这
   blog: {
-    description: "Just普通学生",
+    description: "I tink,therefore I am",
     intro: "/intro.html",
     medias: {
       Baidu: "https://baidu.com",

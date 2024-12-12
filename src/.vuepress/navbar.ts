@@ -2,9 +2,9 @@ import { navbar } from "vuepress-theme-hope";
 
 export default navbar([
   "/",
-  "/article/",
+  "/intro",
   {
-    text: "博客",
+    text: "才疏学浅",
     icon: "pen-to-square",
     prefix: "/article/",
     children: [
