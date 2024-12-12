@@ -8,6 +8,7 @@ heroText: fake-blog
 heroFullScreen: true
 tagline: Be quite
 footer: 到底了:D
+bgImage: https://cdn.jsdelivr.net/gh/fakeppa/blog-img/dhsncn.jpg
 ---
 
 ＃ 个人知识库，学习笔记。
