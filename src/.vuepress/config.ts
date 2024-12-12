@@ -6,7 +6,7 @@ export default defineUserConfig({
   base: "/",
 
   lang: "zh-CN",
-  title: "fakeppa",
+  title: "个人知识库",
   description: "Just-blog",
 
   theme,
