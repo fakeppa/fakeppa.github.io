@@ -1,5 +1,5 @@
 ---
-tagline: &nbsp;&nbsp;be quiet</br>静，而后问己
+tagline: be quiet--静，而后问己
 home: true
 layout: BlogHome
 icon: home
