@@ -1,5 +1,5 @@
 ---
-tagline: <p align="center">be quiet</br>静，而后问己 </p>
+tagline: <align="center">be quiet</br>静，而后问己
 home: true
 layout: BlogHome
 icon: home
