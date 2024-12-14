@@ -24,6 +24,7 @@ export default hopeTheme({
 
   // 侧边栏
   sidebar,
+  darkmode: "enable",
 
   // 页脚
   footer: "到底了:D",
