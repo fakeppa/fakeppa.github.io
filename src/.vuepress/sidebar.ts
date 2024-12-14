@@ -6,7 +6,7 @@ export default sidebar({
     "intro",
     {
       text: "项目",
-      icon: "diagram-project",
+      icon: "bullseye",
       prefix: "article/01_项目/",
       link: "article/01_项目/",
       children: "structure",
@@ -14,7 +14,7 @@ export default sidebar({
     },
     {
       text: "领域",
-      icon: "diagram-project",
+      icon: "mountain",
       prefix: "article/02_领域/",
       link: "article/02_领域/",
       children: "structure",
@@ -22,7 +22,7 @@ export default sidebar({
     },
     {
       text: "资源",
-      icon: "diagram-project",
+      icon: "infinity",
       prefix: "article/03_资源/",
       link: "article/03_资源/",
       children: "structure",
@@ -30,7 +30,7 @@ export default sidebar({
     },
     {
       text: "归档",
-      icon: "diagram-project",
+      icon: "yin-yang",
       prefix: "article/04_归档/",
       link: "article/04_归档/",
       children: "structure",
