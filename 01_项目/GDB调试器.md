@@ -1,0 +1,26 @@
+---
+icon: pen-to-square
+date: 2025-01-03
+tags:
+  - TOOL
+title: GDB调试器
+category:
+  - 项目
+---
+***GDB**是**Linux**下非常好用且强大的**调试工具**。GDB可以调试C、C++、Go、java、 objective-c、PHP等语言。* **GDB** 是由 GUN 软件系统社区提供的**调试工具**，同 GCC 配套组成了一套完整的开发环境，GDB 是 Linux 和许多 类Unix系统的标准开发环境。
+
+# GDB调试代码----指令学习
+括号内是指令全称
+`l(list)`                            -----行号/函数名显示对应的code，每次十行
+r(run)                                  ----F5 【无断点直接运行、右端点从第一个断点开始运行】
+b(breakpoint) + 行号         ----在那一行打断点
+b 源文件：函数名              ----在该函数的第一行打上断点
+b 源文件：行号                  ----在该源文件中的这行加上一个断点
+info b                                  ----查看断点信息
+	breakpoint already hit 1 time【此断点被命中一次】
+d(delete) + 当前要删除断点的编号        ----删除一个断点【不可以d+行号】
+- 若当前没有跳出过gdb，则断点的编号会持续累加
+d +breakpoints                   ----删除所有的断点
+disable  b(breakpoints)       ----使所有的断点无效【默认缺省】
+enable  b(breakpoints)       ----使所有断点有效【默认缺省】
+disable  b(breakpoints)  +  编号  ----使一个断点无效【禁用断点】
