@@ -1,0 +1,34 @@
+---
+icon: pen-to-square
+date: 2025-03-06
+tags: 
+title: DHCP Vlan配置
+category:
+  - 项目
+---
+```shell
+undo info-center enable
+```
+关闭信息弹显
+
+vlan的网关要在vlan接口内配置
+
+接口内配置：属于的vlan，接口类型
+
+
+
+---
+# DHCP
+基于接口和基于全局的配置
+```
+dhcp enable
+```
+开启dhcp服务
+然后进入vlan内
+```
+dhcp server dns-list 8.8.8.8
+```
+
+```
+dhcp server excluded-ip-address list <ip1> <ip2>
+```
