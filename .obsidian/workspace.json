@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "c3acf17928cf45d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6956048f297fae4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9b733421e540595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_领域/渗透/信息收集.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "信息收集"
+            }
+          },
+          {
+            "id": "9f54500f482ebab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_资源/杂物.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "杂物"
+            }
+          },
+          {
+            "id": "00e35e21a42eb9c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04_归档/灯塔OS.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "灯塔OS"
+            }
+          },
+          {
+            "id": "094fba0037ff6767",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_领域/picoCTF/picoCTF知识点.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "picoCTF知识点"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dc6900fdb2fb37d",
+    "type": "split",
+    "children": [
+      {
+        "id": "32a9adafd528a122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc163d1f7d1c5d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f1c43950c0af483b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "linux学习",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b654ac89eadb995b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bd0b764d80617d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc420608e16acabe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd1f7847a40d11d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_项目/考试周破防/数学习题整理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "数学习题整理 的反向链接列表"
+            }
+          },
+          {
+            "id": "26307c3b1383da9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_项目/考试周破防/数学习题整理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数学习题整理 的出链列表"
+            }
+          },
+          {
+            "id": "5079d48c97e3b4ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b578b3664102f8fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04_归档/灯塔OS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "灯塔OS 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "slides-extended:Show slide preview": false
+    }
+  },
+  "active": "8bc163d1f7d1c5d7",
+  "lastOpenFiles": [
+    "02_领域/内网报告.md",
+    "03_资源/逆向学习.md",
+    "03_资源/微信小程序逆向尝试.md",
+    "01_项目/项目--简介.md",
+    "04_归档/真正的JAVA.md",
+    "04_归档/C语言.md",
+    "02_领域/DVWA.md",
+    "01_项目/渗透/w1r3s.md",
+    "01_项目/网络工程师考试/网工课程/第五章/5.3 FTP.md",
+    "03_资源/FTP命令.md",
+    "04_归档/ins_spider.md",
+    "03_资源/KALI自带字典介绍.md",
+    "04_归档/RSA加密算法.md",
+    "03_资源/shell方法论.md",
+    "02_领域/HVV行动总结.md",
+    "02_领域/Python/urlparse.md",
+    "02_领域/Python/threading库.md",
+    "04_归档/xss脚本.md",
+    "01_项目/汇编/汇编学习.md",
+    "01_项目/汇编/汇编手册.md",
+    "03_资源/杂物.md",
+    "03_资源/linux学习笔记.md",
+    "02_领域/渗透/信息收集.md",
+    "03_资源/SQL注入哒/sql注入.md",
+    "提取端口.md",
+    "01_项目/渗透/效率工具.md",
+    "fscan.txt",
+    "01_项目/一百计划",
+    "未命名",
+    "01_项目/应试JAVA",
+    "1.py",
+    "02_领域/ISCC",
+    "01_项目/ctfshow",
+    "01_项目/THM/Metasploit",
+    "01_项目/THM",
+    "01_项目/picoCTF/网站 Web",
+    "01_项目/网络工程师考试/网工课程/第四章.canvas",
+    "img/1.png",
+    "img/2.png",
+    "img/weq21.png",
+    "img/we.jpg",
+    "img/wds.png",
+    "img/sqlmap.png",
+    "img/SQL.png",
+    "img/sdw2.png",
+    "img/sdt1.png",
+    "img/sd31.png"
+  ]
+}
