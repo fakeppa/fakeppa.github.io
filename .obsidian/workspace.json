@@ -1,0 +1,291 @@
+{
+  "main": {
+    "id": "c3acf17928cf45d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "dcfda589be6d7c8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89acd19278d89dbd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_项目/渗透/w1r3s.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "w1r3s"
+            }
+          },
+          {
+            "id": "9a09058336330719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_项目/渗透/Drive.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drive"
+            }
+          },
+          {
+            "id": "c7a0a8a6d9933efd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_项目/渗透/实战/从mssql到rdp远程桌面连接.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "从mssql到rdp远程桌面连接"
+            }
+          },
+          {
+            "id": "cb0482c18ab1ba41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_项目/安卓逆向/allsafe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "allsafe"
+            }
+          },
+          {
+            "id": "937ef95e10c4df97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_项目/渗透/实战/从mssql到rdp远程桌面连接.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "从mssql到rdp远程桌面连接"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dc6900fdb2fb37d",
+    "type": "split",
+    "children": [
+      {
+        "id": "32a9adafd528a122",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8bc163d1f7d1c5d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "f1c43950c0af483b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "一句话",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b654ac89eadb995b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bd0b764d80617d3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc420608e16acabe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd1f7847a40d11d0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_项目/考试周破防/数学习题整理.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "数学习题整理 的反向链接列表"
+            }
+          },
+          {
+            "id": "26307c3b1383da9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "01_项目/考试周破防/数学习题整理.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "数学习题整理 的出链列表"
+            }
+          },
+          {
+            "id": "5079d48c97e3b4ac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b578b3664102f8fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "01_项目/渗透/实战/从mssql到rdp远程桌面连接.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "从mssql到rdp远程桌面连接 的大纲"
+            }
+          },
+          {
+            "id": "61755bb91b82cfe9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 240.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:创建新数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false,
+      "slides-extended:Show slide preview": false
+    }
+  },
+  "active": "937ef95e10c4df97",
+  "lastOpenFiles": [
+    "01_项目/实用攻略/工具命令快反.md",
+    "01_项目/渗透/w1r3s.md",
+    "01_项目/渗透/Prime_Series_Level-1.md",
+    "01_项目/渗透/LampSecurityCTF4.md",
+    "01_项目/渗透/Jarbas.md",
+    "01_项目/渗透/Drive.md",
+    "01_项目/渗透/信息收集.md",
+    "01_项目/渗透/实战/从mssql到rdp远程桌面连接.md",
+    "01_项目/安卓逆向/allsafe.md",
+    "01_项目/picoCTF/网站 Web/SSTI.md",
+    "01_项目/picoCTF/网站 Web/SSTI2.md",
+    "01_项目/picoCTF/通用General/Based.md",
+    "01_项目/picoCTF/逆向reverse/Ready Gladiator 2.md",
+    "01_项目/一百计划/TCP多线程服务器开发.md",
+    "01_项目/BUUCTF/reverse1.md",
+    "01_项目/BUUCTF/reverse2.md",
+    "01_项目/BUUCTF/Shop.md",
+    "03_资源/SQL注入哒/sql注入.md",
+    "01_项目/实用攻略",
+    "01_项目/base64加密.md",
+    "03_资源/杂物.md",
+    "01_项目/Re学习.md",
+    "01_项目/esp32--网络模块学习.md",
+    "01_项目/RE需要的各种加密.md",
+    "01_项目/a.md",
+    "未命名 1.canvas",
+    "01_项目/渗透/实战",
+    "01_项目/渗透/从mssql弱口令到rdp远程桌面.md",
+    "02_领域/汇编/汇编手册.md",
+    "未命名.canvas",
+    "01_项目/安卓逆向",
+    "01_项目/新生赛",
+    "01_项目/BUUCTF",
+    "04_归档/考试周破防/大一下",
+    "04_归档/考试周破防/大一上",
+    "fscan.txt",
+    "01_项目/一百计划",
+    "未命名",
+    "01_项目/网络工程师考试/网工课程/第四章.canvas",
+    "img/1.png",
+    "img/2.png",
+    "img/weq21.png",
+    "img/we.jpg",
+    "img/wds.png",
+    "img/sqlmap.png",
+    "img/SQL.png",
+    "img/sdw2.png",
+    "img/sdt1.png",
+    "img/sd31.png"
+  ]
+}
